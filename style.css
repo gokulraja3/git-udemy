@@ -1,0 +1,15 @@
+.header
+{
+background:#2388CB;
+border: 2px black solid;
+color: red;
+
+}
+.menu:hover
+{
+
+	border: 3px white solid ;
+	padding: 2px 2px 2px 2px;
+	 width: 300px;
+
+}
